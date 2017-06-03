@@ -1,3 +1,3 @@
 # hello-world
 Hi!
-My name is Luisa, here to learn and contribute.
+My name is Luisa. I'm here to learn and contribute.
